@@ -1,0 +1,36 @@
+#titulo{
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+.rodape{
+    font-size: small;
+    text-align: center;
+}
+.texto{
+    font-size: small;
+    color: white;
+    text-align: center;
+}
+body{
+    background: black;
+    color: white;
+}
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+}
+.centralizada{
+    display: block;
+    margin: 0 auto;
+}
+.medio{
+    display: block;
+    width: 600px;
+    height: 600px;
+}
+a{
+    color:blueviolet;
+}

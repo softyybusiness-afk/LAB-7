@@ -1,0 +1,72 @@
+#titulo{
+    font-size: 28px;
+    text-align: center;
+}
+.rodape{
+    font-size: small;
+    text-align: center;
+}
+.texto{
+    font-size: 14px;
+    text-align: center;
+}
+body{
+    background: white;
+    color: black;
+    text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  width: 150px;
+  height: 150px;
+}
+.centralizada{
+    display: block;
+    margin: 0 auto;
+}
+.medio{
+    display: block;
+    width: 600px;
+    height: 600px;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
+#subtitulo{
+    font-size: 18px;
+    text-align: center;
+}
+.menu{
+    font-size: 28px;
+    color: blue;
+    text-align: right;
+}
+li:hover{
+    font-size: 18px;
+    text-decoration: underline;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    margin: 20px auto;
+}
+video{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-back {
+    margin-top: 20px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.btn-back:hover {
+    text-decoration: underline;
+}
