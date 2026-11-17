@@ -34,3 +34,13 @@ img{
 a{
     color:blueviolet;
 }
+.btn-back {
+    margin-top: 20px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.btn-back:hover {
+    text-decoration: underline;
+}
